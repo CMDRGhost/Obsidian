@@ -10,7 +10,7 @@ tags:
 ---
 # Victoria Wendell
 Mostly called Vic, a general in the empires army. She sets herself apart through her military genius. She studied solid state physics and warfare.
-
+Her understanding of the technology used in war enables her to use her resources very efficiently.
 
 
 

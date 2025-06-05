@@ -7,8 +7,6 @@ tags:
 # Empire
 
 
-
-
 # Details
 
 ## Generic

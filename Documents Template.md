@@ -1,0 +1,32 @@
+#z_Templates 
+# Documents Template
+## Generic
+#### Medium
+#### Related Location
+[[Geographic_Locations_
+#### Related Myth
+[[Myths_
+#### Document Authors
+[[Characters_
+#### Signatories (Characters)
+[[Characters_
+#### Signatories (Organizations)
+[[Organizations_
+#### Purpose
+## Structure
+#### Clauses
+#### Caveats
+#### Legal Status
+#### Publication Status
+#### References
+## Historical Details
+#### Authoring Date
+#### Ratification Date
+#### Expiration Date
+#### Background
+#### History
+#### Public Reaction
+#### Legacy
+#### Term
+## Actual Contents
+#### Contents

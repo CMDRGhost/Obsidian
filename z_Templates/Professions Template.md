@@ -1,3 +1,8 @@
+---
+aliases: 
+tags:
+  - Profession
+---
 #z_Templates
 # Professions Template
 
@@ -37,3 +42,8 @@
 [[Vehicles_
 #### Related Technologies
 [[Technologies_
+## Location
+#### Current Geographic Location
+[[Geographic_Locations_
+#### Current Holder (Character)
+[[Characters_

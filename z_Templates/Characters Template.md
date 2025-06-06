@@ -1,9 +1,10 @@
 ---
 aliases: 
 tags:
-  - z_Templates
+  - Charakter
 ---
 # Characters Template
+#z_Templates
 
 
 

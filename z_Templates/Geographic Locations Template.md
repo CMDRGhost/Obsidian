@@ -1,3 +1,8 @@
+---
+aliases: 
+tags:
+  - Geographic_Location
+---
 #z_Templates
 # Geographic Locations Template
 

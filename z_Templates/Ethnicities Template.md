@@ -1,3 +1,8 @@
+---
+aliases: 
+tags:
+  - Ethnicity
+---
 #z_Templates 
 # Ethnicities Template
 

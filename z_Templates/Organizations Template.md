@@ -1,3 +1,8 @@
+---
+aliases: 
+tags:
+  - Organization
+---
 #z_Templates
 # Organizations Template
 

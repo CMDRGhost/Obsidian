@@ -1,3 +1,8 @@
+---
+aliases: 
+tags:
+  - Document
+---
 #z_Templates 
 # Documents Template
 

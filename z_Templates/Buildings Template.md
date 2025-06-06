@@ -1,3 +1,8 @@
+---
+aliases: 
+tags:
+  - Building
+---
 #z_Templates 
 # Buildings Template
 

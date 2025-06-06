@@ -1,5 +1,6 @@
 #z_Templates 
 # Documents Template
+# Details
 ## Generic
 #### Medium
 #### Related Location

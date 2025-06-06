@@ -13,7 +13,7 @@ tags:
 #### Motto / Slogan / Axiom
 #### Alternative names
 #### Demonym
-/*Demonym is a word that identifies residents or natives of a particular place, which is derived from the name of that particular place. For example "French" is the demonym for someone from France.*/
+*Demonym is a word that identifies residents or natives of a particular place, which is derived from the name of that particular place. For example "French" is the demonym for someone from France.*
 #### Founding Date
 #### Dissolution Date
 #### Leader

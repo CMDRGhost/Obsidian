@@ -3,8 +3,8 @@ aliases:
 tags:
   - Organization
 ---
-#z_Templates
 # Organizations Template
+#z_Templates
 
 
 # Details

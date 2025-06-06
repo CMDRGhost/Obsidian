@@ -3,8 +3,8 @@ aliases:
 tags:
   - Condition
 ---
-#z_Templates 
 # Conditions Template
+#z_Templates
 
 
 # Details

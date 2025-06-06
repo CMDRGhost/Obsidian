@@ -3,8 +3,8 @@ aliases:
 tags:
   - Document
 ---
-#z_Templates 
 # Documents Template
+#z_Templates
 
 
 # Details

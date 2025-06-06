@@ -3,8 +3,8 @@ aliases:
 tags:
   - Profession
 ---
-#z_Templates
 # Professions Template
+#z_Templates
 
 
 # Details

@@ -3,9 +3,8 @@ aliases:
 tags:
   - Building
 ---
-#z_Templates 
 # Buildings Template
-
+#z_Templates
 
 
 # Details

@@ -7,11 +7,6 @@ tags:
 #z_Templates
 
 
-
-
-
-
-
 # Details
 ## Presentation
 #### Eyes

@@ -5,4 +5,8 @@ tags:
 ---
 # Laws Template
 #z_Templates 
+
+
 # Details
+#### Manifestation / Visualization
+#### Localization

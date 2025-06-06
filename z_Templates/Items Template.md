@@ -3,8 +3,9 @@ aliases:
 tags:
   - Item
 ---
-#z_Templates 
 # Items Template
+#z_Templates
+
 
 # Details
 ## Generic

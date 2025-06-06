@@ -1,6 +1,8 @@
 #z_Templates 
 # Buildings Template
 
+
+
 # Details
 ## Generic
 #### Parent Location

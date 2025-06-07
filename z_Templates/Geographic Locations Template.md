@@ -14,7 +14,7 @@ tags:
 #### Ruler / Owner
 [[Characters_
 #### Owning Rank
-[[Ranks_&_Titles_
+[[Ranks_Titles_
 #### Owning Organization
 [[Organizations_
 #### Organizations Contesting Ownership of the Location

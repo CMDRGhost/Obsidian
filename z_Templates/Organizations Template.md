@@ -21,7 +21,7 @@ tags:
 #### Ruling Organization
 [[Organizations_
 #### Leader Title
-[[Ranks_&_Titles_
+[[Ranks_Titles_
 #### Founders
 [[Characters_
 #### Parent Organization

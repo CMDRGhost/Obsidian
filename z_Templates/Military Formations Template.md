@@ -17,7 +17,7 @@ tags:
 #### Used by
 [[Organizations_
 #### Related Ranks
-[[Ranks_&_Titles_
+[[Ranks_Titles_
 #### Manpower
 #### Equipment
 #### Weaponry

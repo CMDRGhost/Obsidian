@@ -44,7 +44,7 @@ tags:
 
 ## Naming
 #### Honorific / Title
-[[Ranks_And_Titles_
+[[Ranks_Titles_
 #### Given name
 #### Middle name
 #### Family name
@@ -89,7 +89,7 @@ tags:
 
 ## Social
 #### Titles
-[[Ranks_&_Titles_
+[[Ranks_Titles_
 #### Reign
 #### Wealth
 #### Contacts, Relations & Other Affiliations

@@ -29,7 +29,7 @@ tags:
 #### Legality
 ## Relations
 #### Ranks & Titles
-[[Ranks_&_Titles_
+[[Ranks_Titles_
 #### Related Locations
 [[Geographic_Locations_
 #### Famous in the Field

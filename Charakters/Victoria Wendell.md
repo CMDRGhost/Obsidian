@@ -63,7 +63,7 @@ Atheist
 
 ## Naming
 #### Honorific / Title
-[[Ranks_&_Titles_General]]
+[[Ranks_Titles_General]]
 #### Given name
 Victoria
 #### Middle name
@@ -111,7 +111,7 @@ Aromantic/Asexual
 
 ## Social
 #### Titles
-[[Ranks_&_Titles_General]]
+[[Ranks_Titles_General]]
 #### Reign
 #### Wealth
 #### Contacts, Relations & Other Affiliations

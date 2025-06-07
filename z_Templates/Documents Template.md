@@ -12,7 +12,8 @@ tags:
 #### Medium
 #### Related Location
 [[Geographic_Locations_
-#### Related Myth
+[[Settlements_
+[[Buildings_
 [[Myths_
 #### Document Authors
 [[Characters_

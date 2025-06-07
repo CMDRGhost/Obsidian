@@ -11,7 +11,8 @@ tags:
 ## Generic
 #### Parent Location
 [[Geographic_Locations_
-#### Construction Date
+[[Settlements_
+[[Buildings_
 #### Date that became a ruin
 #### Ruler / Owner
 [[Characters_

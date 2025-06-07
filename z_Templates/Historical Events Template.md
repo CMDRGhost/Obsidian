@@ -1,12 +1,12 @@
 ---
+tags:
+  - Historical_Event
 aat-event-start-date: yyyy-mm-dd
 aat-event-end-date: yyyy-mm-dd
 aat-render-enabled: true
 timelines:
   - timelines
-Historical Event Type: 
-tags:
-  - Historical_Event
+Historical Event Type:
 ---
 # Historical Events Template
 #z_Templates 

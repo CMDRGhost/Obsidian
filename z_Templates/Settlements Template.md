@@ -37,4 +37,8 @@ tags:
 #### Guilds and Factions
 #### History
 #### Points of Interest
-
+#### Tourism
+#### Architecture
+#### Geography
+#### Climate
+#### Natural Resources

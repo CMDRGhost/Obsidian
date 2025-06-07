@@ -20,7 +20,7 @@ Significance Historical Events:
 #### Significance
 #### Type
 #### Short Description/Excerpt
-12 years after the colonization of the central system Sesha Astraea gets colonized.
+12 years after the colonization of the central system Sesha, Theia gets colonized.
 #### Full content
 #### Related Characters
 [[Characters_

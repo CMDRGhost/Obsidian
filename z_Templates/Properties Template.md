@@ -1,0 +1,55 @@
+---
+Historical Event Type:
+  - Artistic Creation
+  - Celestial/Cosmic
+  - Civil Action
+  - Construction Beginning/End
+  - Criminal Activity
+  - Cultural Event
+  - Diplomatic Action
+  - Disaster/Destruction
+  - Disbandment
+  - Discovery, Exploration
+  - Discovery, Scientific
+  - Era Beginning/End
+  - Expedition
+  - Extinction
+  - Financial Event
+  - Founding
+  - Fathering/Conference
+  - Geological/Environmental Event
+  - Life, Achievement/Win
+  - Life, Birth
+  - Life, Career
+  - Life, Crime
+  - Life, Death
+  - Life, Education
+  - Life, Failure/Mishap
+  - Life, Identity
+  - Life, Milestone
+  - Life, Organisation Association
+  - Life, Publicity
+  - Life, Relationship Change
+  - Life, Relocation
+  - Life, Supernatural
+  - Life, Trauma/Loss
+  - Life, Wealth
+  - Linguistic Evolution
+  - Marriage
+  - Metaphysical/Paranormal Event
+  - Military Action
+  - "Military: Battle"
+  - "Military: Skirmish"
+  - "Military: War"
+  - Miscellaneous
+  - Plague/Epidemic
+  - Political Event
+  - Population Migration/Travel
+  - Religious Event
+  - Revolution
+  - Scientific Achievement
+  - Sporting Event/Competition
+  - Technological Achievement
+---
+# Properties Template
+#z_Templates 

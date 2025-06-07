@@ -14,6 +14,7 @@ tags:
 [[Geographic_Locations_
 [[Settlements_
 [[Buildings_
+#### Related Myth
 [[Myths_
 #### Document Authors
 [[Characters_

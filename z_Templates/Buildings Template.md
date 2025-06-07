@@ -13,6 +13,7 @@ tags:
 [[Geographic_Locations_
 [[Settlements_
 [[Buildings_
+#### Construction Date
 #### Date that became a ruin
 #### Ruler / Owner
 [[Characters_

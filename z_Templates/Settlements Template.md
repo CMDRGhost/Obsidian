@@ -34,3 +34,7 @@ tags:
 #### Assets
 #### Defences
 #### Industry and Trade
+#### Guilds and Factions
+#### History
+#### Points of Interest
+

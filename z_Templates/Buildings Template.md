@@ -23,7 +23,7 @@ tags:
 #### Organizations Contesting Ownership of the Landmark
 [[Organizations_
 #### Owning Rank
-[[Rank_&_Title_
+[[Ranks_Titles_
 #### Purpose
 #### Alterations
 #### Architecture

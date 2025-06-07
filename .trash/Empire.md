@@ -11,28 +11,19 @@ tags:
 
 ## Generic
 #### Motto / Slogan / Axiom
-"Progress and Happiness!"
 #### Alternative names
 #### Demonym
-Imperial
+*Demonym is a word that identifies residents or natives of a particular place, which is derived from the name of that particular place. For example "French" is the demonym for someone from France.*
 #### Founding Date
 #### Dissolution Date
 #### Leader
-[[Characters_
 #### Ruling Organization
-[[Organizations_
 #### Leader Title
-[[Ranks_Titles_
 #### Founders
-[[Characters_
 #### Parent Organization
-[[Organizations_
 #### Geographic Location / Base Settlement / HQ
-[[Geographic_Locations_
 #### Related Species
-[[Species_
 #### Related Ethnicities
-[[Ethnicities_Imperial]]
 #### Organization structure
 #### Culture
 #### Public agenda
@@ -40,26 +31,19 @@ Imperial
 #### History
 #### Disbandment
 #### Predecessor Organizations
-[[Organizations_Human_Empire]]
 #### Successor Organizations
-[[Organizations_
+
 ## Geopolitical
 #### Capital
-[[Geographic_Locations_
 #### Head of State
-[[Characters_
 #### Head of Government
-[[Characters_
 #### Government System
 #### Power Structure System
 #### Economic System
 #### Neighboring Geopolitical Organizations
-[[Organizations_
 #### Recognised/Official Languages
-[[Languages_
 #### Official State Religion
-#### Important Locations (Gazetteer)
-[[Geographic_Locations_
+#### Important Locations
 #### Official Currency
 #### legislative Body
 #### Judicial Body
@@ -79,7 +63,6 @@ Imperial
 #### Technological and Scientific Level
 ## Religious
 #### Deities
-[[Characters_
 #### Mythology
 #### Origins
 #### Cosmology

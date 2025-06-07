@@ -1,5 +1,5 @@
 ---
-Historical Event Type:
+Type Historical Event:
   - Artistic Creation
   - Celestial/Cosmic
   - Civil Action
@@ -50,6 +50,13 @@ Historical Event Type:
   - Scientific Achievement
   - Sporting Event/Competition
   - Technological Achievement
+Significance Historical Events:
+  - Milestone/Era Changing
+  - Major/Global
+  - Important/National
+  - Minor/Regional
+  - Trivial/Personal
+  - Not Significant
 ---
 # Properties Template
 #z_Templates 

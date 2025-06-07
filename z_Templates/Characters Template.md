@@ -99,6 +99,21 @@ tags:
 #### Mannerisms
 #### Pets & Hobbies 
 #### Speech
+## Divine/Deity
+#### Church / Cult
+[[Organizations_
+#### Realm
+[[Geographic_Locations_  
+[[Settlements_  
+[[Buildings_
+#### Classification
+#### Divine Domain(s)
+#### Artifacts
+#### Holy Books & Codes
+#### Divine Symbols & Sigils
+#### Tenets of Faith
+#### Divine Goals
+#### Holidays
 ## Relationships
 #### Relationship with
 [[Characters_

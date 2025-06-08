@@ -43,7 +43,7 @@ she, her
 #### Family
 [[Organizations_
 #### Planet of Origin
-[[Geographic_Locations_Eos and Theia]]
+[[Geographic_Locations_Eos and Astraeus]]
 ## Current State
 #### Religious Belief/Deity
 Atheist

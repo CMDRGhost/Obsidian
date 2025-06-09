@@ -3,6 +3,7 @@ aliases:
   - Geographic_Locations_Theia
 tags:
   - Geographic_Location
+Type Geographic Location: Planet
 ---
 # Theia
 
@@ -29,3 +30,10 @@ tags:
 #### Natural resources
 #### History
 #### Tourism
+%% 
+# Math
+---
+
+#### Hill Sphere of the Planets
+
+%%

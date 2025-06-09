@@ -73,6 +73,15 @@ Type Geographic Location:
   - Canyon
   - Cape
   - Cave
+  - Cave System
+  - Chasm, Underwater
+  - Cliff
+  - Cloud Band
+  - Coast/Shore
+  - Continent
+  - Copse
+  - Coral Reef, Atoll
+  - Coral Reef
 ---
 # Properties Template
 #z_Templates 

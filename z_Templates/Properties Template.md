@@ -59,8 +59,20 @@ Significance Historical Events:
   - Not Significant
 Type Geographic Location:
   - Abyss
-  - Landmass
-  - Lava river
+  - Air Mass
+  - Archipelago
+  - Asteroid
+  - Asteroid Belt
+  - Atmospheric Trough
+  - Atoll, Underwater
+  - Badlands
+  - Bay
+  - Black Hole
+  - Bodden
+  - Brush
+  - Canyon
+  - Cape
+  - Cave
 ---
 # Properties Template
 #z_Templates 

@@ -57,6 +57,11 @@ Significance Historical Events:
   - Minor/Regional
   - Trivial/Personal
   - Not Significant
+Type Geographic Location:
+- Abyss
+- Landmass
+- Lava river
 ---
 # Properties Template
 #z_Templates 
+

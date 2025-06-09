@@ -38,8 +38,14 @@ Type Geographic Location: Planet
 $$
 R_H = a \left( \frac{m_1 + m_2}{3 M_*} \right)^{1/3}
 $$
-Prograde Orbits are stable if the distance
+Prograde Orbits are stable if the distance between the two planets doesn't exceed:
 $$
-a_in ≈ 0.5r_H
+a_{in} ≈ 0.5r_H
 $$
 https://arxiv.org/pdf/1609.05912
+#### Roche limit
+
+$$
+d = R * \sqrt[3]{\frac{2p_M}{p_m}}
+$$
+Thus we have a maximum distance of $R_H$ and a minimum distance of $d$.

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Historical_Events_Colonization of Theia
 tags:
   - Historical_Event
 aat-event-start-date: 12-1-1

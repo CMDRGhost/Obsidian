@@ -1,7 +1,9 @@
 ---
+aliases:
+  - Historical_Events_Colonization of Seshat
 tags:
   - Historical_Event
-aat-event-start-date: 0-1-1
+aat-event-start-date: 1-1-1
 aat-event-end-date: 33-1-1
 aat-render-enabled: true
 aat-event-picture: undefined

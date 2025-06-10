@@ -81,7 +81,120 @@ Type Geographic Location:
   - Continent
   - Copse
   - Coral Reef, Atoll
-  - Coral Reef
+  - Coral Reef, Barrier
+  - Coral Reef, Fringing
+  - Coral Reef, Platform
+  - Cove
+  - Cracked Planet
+  - Crater/Crater Lake/Caldera
+  - Current
+  - Desert
+  - Desert, Ice
+  - Dimensional Plane
+  - Dimensional Pocket
+  - Doldrum
+  - Downwelling
+  - Dune
+  - Estuary/River Delta
+  - Expanse
+  - Field
+  - Fjord
+  - Forest
+  - Forest, Boreal (Coniferous)
+  - Forest, Cloud/Water (Subtropical)
+  - Forest, Jungle (Tropical)
+  - Forest, Temperate (Seasonal)
+  - Galactic Nebula
+  - Galactic Quadrant
+  - Galactic Sector
+  - Galaxy
+  - Galaxy Cluster
+  - Galaxy Supercluster
+  - Glacier
+  - Gorge/Rift
+  - Grassland
+  - Grove
+  - Gulf/Lagoon
+  - Gyre
+  - Highlands
+  - Inland Sea
+  - Island
+  - Island, Floating
+  - Isthmus
+  - Jet Stream
+  - Jungle
+  - Lake
+  - Lake, Dry
+  - Landmass
+  - Lava River
+  - Magical Realm
+  - Meadow
+  - Megastructure
+  - Moor
+  - Mountain/Hill
+  - Mountain Pass
+  - Mountain Range
+  - Multiverse
+  - Natural Wonder
+  - Nebula
+  - Oasis
+  - Ocean
+  - Peninsula
+  - Persistent Storm
+  - Plain
+  - Planar Sphere/Grouping
+  - Plane of Existence
+  - Planet
+  - Planetary Orbit
+  - Planetary Ring
+  - Planetoid
+  - Planetoid/Moon
+  - Planetoid, Rogue
+  - Plateau
+  - Pocket Universe
+  - Pond
+  - Rapids
+  - Region
+  - River
+  - River Basin
+  - Rock Formation
+  - Rolling Hills
+  - Salt Flat
+  - Savannah
+  - Sea
+  - Shoal
+  - Simulation
+  - Sinkhole
+  - Solar System
+  - Space Station
+  - Spring
+  - Star
+  - Star System
+  - Star System Sector
+  - Steppe
+  - Strait
+  - Stream
+  - Subcontinent
+  - Taiga
+  - Territory
+  - Theatre
+  - Tundra
+  - Underground/Subterranean
+  - Universe
+  - Upwelling
+  - Vale
+  - Valley
+  - Void
+  - Volcano
+  - Volcano, Underwater
+  - Vortex
+  - Wasteland
+  - Waterfall
+  - Wetland/Swamp
+  - Wind Belt
+  - Woods
+  - World
+  - Wormhole
 ---
 # Properties Template
 #z_Templates 

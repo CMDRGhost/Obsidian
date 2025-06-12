@@ -58,9 +58,5 @@ Radius: 0.682 $R_{sol}$
 Luminosity: 0.148 $L_{sol}$
 Density: 1.953 $D_{sol}$
 Temperature: 4336K (Hex: \#FFD6B5)
+Color: ![Color|30x30](https://convertingcolors.com/plain-FFD6B5.svg)
 Habitable zone: 0.367AU - 0.528AU
-<%*
-// Get the text contents of the current file const file = app.workspace.getActiveFile()
-let contents = await app.vault.read(file)
-// Replace HTML colour codes contents = contents.replace(/#([a-fA-F0-9]{6}(?!">■<))/g, '<span style="color: #$1">■</span><kbd><span>#</span>$1</kbd>') // Save the new contents back to the current file await app.vault.modify(file, contents)
--%>

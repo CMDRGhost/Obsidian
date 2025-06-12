@@ -57,5 +57,5 @@ Max Age: 41.959 Gyr
 Radius: 0.682 $R_{sol}$
 Luminosity: 0.148 $L_{sol}$
 Density: 1.953 $D_{sol}$
-Temperature: 4336K
+Temperature: 4336K (Hex: \#FFD6B5)
 Habitable zone: 0.367AU - 0.528AU

@@ -59,4 +59,3 @@ Luminosity: 0.148 $L_{sol}$
 Density: 1.953 $D_{sol}$
 Temperature: 4336K
 Habitable zone: 0.367AU - 0.528AU
-ü

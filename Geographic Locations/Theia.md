@@ -42,6 +42,7 @@ Prograde Orbits are stable if the distance between the two planets doesn't excee
 $$
 a_{in} ≈ 0.5r_H
 $$
+
 https://arxiv.org/pdf/1609.05912
 #### Roche limit
 
@@ -60,3 +61,8 @@ Density: 1.953 $D_{sol}$
 Temperature: 4336K (Hex: \#FFD6B5)
 Color: ![Color|30x30](https://convertingcolors.com/plain-FFD6B5.svg)
 Habitable zone: 0.367AU - 0.528AU
+
+#### Habitable Planets
+Hill Sphere: ca. 917 * 10^6 m
+0.5 * Hill Sphere: ca. 458 * 10^6 m
+Roche limit: ca. 6.275 * 10^6 m

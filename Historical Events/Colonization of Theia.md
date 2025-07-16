@@ -38,6 +38,6 @@ Technological Achievement
 [[Settlements_  
 [[Buildings_
 #### Related Species
-[[Species_Human]]
+[[Human]]
 
 

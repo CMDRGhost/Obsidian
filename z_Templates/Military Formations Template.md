@@ -2,6 +2,9 @@
 aliases: 
 tags:
   - Military_Formation
+Type Military Formation: 
+Assumed Veterancy Military Formation: 
+Overall Training Level Military Formation:
 ---
 # Military Formations Template
 #z_Templates 
@@ -12,8 +15,6 @@ tags:
 ## Composition
 #### Parent Formation
 [[Military_Formations_
-#### Assumed Veterancy
-#### Overall Training Level
 #### Used by
 [[Organizations_
 #### Related Ranks

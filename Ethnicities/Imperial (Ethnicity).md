@@ -1,10 +1,10 @@
 ---
-aliases: 
+aliases:
+  - Ethnicities_Imperial
 tags:
   - Ethnicity
 ---
-# Ethnicities Template
-#z_Templates
+# Imperial (Ethnicity)
 
 
 # Details
@@ -37,9 +37,7 @@ tags:
 #### Attained Technological Levels
 ## Connections & Relations
 #### Related Locations
-[[Geographic_Locations_
-[[Settlements_
-[[Buildings_
+[[Theia|Geographic_Locations_Theia]]
 #### Parent Ethnicities
 [[Ethnicities_
 #### Major Organizations

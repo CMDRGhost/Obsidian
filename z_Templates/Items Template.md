@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - Item
+Type Item:
 ---
 # Items Template
 #z_Templates

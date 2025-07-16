@@ -32,7 +32,7 @@ Imperial
 #### Related Species
 [[Species_
 #### Related Ethnicities
-[[Ethnicities_Imperial]]
+[[Imperial (Ethnicity)]]
 #### Organization structure
 #### Culture
 #### Public agenda

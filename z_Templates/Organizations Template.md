@@ -2,6 +2,12 @@
 aliases: 
 tags:
   - Organization
+Type Organization: 
+Government System Organization: 
+Power Structure System Organization: 
+Economic System Organization: 
+Training Level Organization: 
+Veterancy Organizations:
 ---
 # Organizations Template
 #z_Templates
@@ -28,6 +34,8 @@ tags:
 [[Organizations_
 #### Geographic Location / Base Settlement / HQ
 [[Geographic_Locations_
+[[Settlements_
+[[Buildings_
 #### Related Species
 [[Species_
 #### Related Ethnicities
@@ -45,6 +53,8 @@ tags:
 ## Geopolitical
 #### Capital
 [[Geographic_Locations_
+[[Settlements_
+[[Buildings_
 #### Head of State
 [[Characters_
 #### Head of Government
@@ -59,6 +69,8 @@ tags:
 #### Official State Religion
 #### Important Locations (Gazetteer)
 [[Geographic_Locations_
+[[Settlements_
+[[Buildings_
 #### Official Currency
 #### legislative Body
 #### Judicial Body
@@ -90,6 +102,4 @@ tags:
 #### Worship
 #### Sects
 ## Military
-#### Training Level
-#### Veterancy
 #### Weapons & Technology

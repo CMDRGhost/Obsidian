@@ -3,7 +3,8 @@ aliases:
   - Geographic_Locations_Theia
 tags:
   - Geographic_Location
-Type Geographic Location: Planet
+Type Geographic Location:
+  - Star System
 ---
 # Theia
 

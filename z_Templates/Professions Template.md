@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - Profession
+Type Profession:
 ---
 # Professions Template
 #z_Templates
@@ -32,6 +33,8 @@ tags:
 [[Ranks_Titles_
 #### Related Locations
 [[Geographic_Locations_
+[[Settlements_
+[[Buildings_
 #### Famous in the Field
 [[Characters_
 #### Used By

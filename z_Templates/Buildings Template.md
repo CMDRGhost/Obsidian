@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - Building
+Type Building:
 ---
 # Buildings Template
 #z_Templates

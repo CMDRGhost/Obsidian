@@ -29,6 +29,8 @@ tags:
 [[Species_
 #### Related Locations
 [[Geographic_Locations_
+[[Settlements_
+[[Buildings_
 #### Related Organizations
 [[Organizations_
 #### Related Items

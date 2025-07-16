@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - Settlement
+Type Settlement: []
 ---
 # Settlements Template
 #z_Templates 

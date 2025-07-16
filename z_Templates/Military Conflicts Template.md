@@ -2,6 +2,8 @@
 aliases: 
 tags:
   - Military_Conflict
+Type Military Conflicts: 
+Location Type Military Conflicts:
 ---
 # Military Conflicts Template
 #z_Templates 
@@ -25,11 +27,12 @@ tags:
 #### Literature
 #### Technology
 ## Specifications
-#### Location Type
 #### Parent Conflict
 [[Military_Conflicts_
 #### Location
 [[Geographic_Locations_
+[[Settlements_
+[[Buildings_
 #### Maps
 ## Conflict Sides
 *Copy Template for every Side*

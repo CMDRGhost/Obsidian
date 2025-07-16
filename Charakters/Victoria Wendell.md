@@ -37,9 +37,9 @@ Feminine, mostly clean/sterile white clothes (like she is in a lab)
 #### Pronouns
 she, her
 #### Species
-[[Species_Human]]
+[[Human]]
 #### Ethnicity
-[[Ethnicities_Imperial]]
+[[Imperial (Ethnicity)]]
 #### Family
 [[Organizations_
 #### Planet of Origin

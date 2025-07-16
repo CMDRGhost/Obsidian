@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - Rank_Title
+Type Rank Title:
 ---
 # Ranks Titles Template
 #z_Templates 

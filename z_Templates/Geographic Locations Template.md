@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - Geographic_Location
+Type Geographic Location:
 ---
 # Geographic Locations Template
 #z_Templates

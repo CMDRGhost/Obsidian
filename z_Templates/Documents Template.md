@@ -2,6 +2,8 @@
 aliases: 
 tags:
   - Document
+Type Document: 
+Medium Document:
 ---
 # Documents Template
 #z_Templates

@@ -2,6 +2,7 @@
 aliases: 
 tags:
   - Material
+Type Material:
 ---
 # Materials Template
 #z_Templates 
@@ -46,6 +47,8 @@ tags:
 ## Relations
 #### Related Locations
 [[Geographic_Locations_
+[[Settlements_
+[[Buildings_
 #### Related Species
 [[Species_
 #### Related Items

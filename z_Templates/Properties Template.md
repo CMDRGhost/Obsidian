@@ -1,62 +1,609 @@
 ---
-Type Historical Event:
-  - Artistic Creation
-  - Celestial/Cosmic
-  - Civil Action
-  - Construction Beginning/End
-  - Criminal Activity
-  - Cultural Event
-  - Diplomatic Action
-  - Disaster/Destruction
-  - Disbandment
-  - Discovery, Exploration
-  - Discovery, Scientific
-  - Era Beginning/End
-  - Expedition
-  - Extinction
-  - Financial Event
-  - Founding
-  - Fathering/Conference
-  - Geological/Environmental Event
-  - Life, Achievement/Win
-  - Life, Birth
-  - Life, Career
-  - Life, Crime
-  - Life, Death
-  - Life, Education
-  - Life, Failure/Mishap
-  - Life, Identity
-  - Life, Milestone
-  - Life, Organisation Association
-  - Life, Publicity
-  - Life, Relationship Change
-  - Life, Relocation
-  - Life, Supernatural
-  - Life, Trauma/Loss
-  - Life, Wealth
-  - Linguistic Evolution
-  - Marriage
-  - Metaphysical/Paranormal Event
-  - Military Action
-  - "Military: Battle"
-  - "Military: Skirmish"
-  - "Military: War"
-  - Miscellaneous
-  - Plague/Epidemic
-  - Political Event
-  - Population Migration/Travel
-  - Religious Event
-  - Revolution
-  - Scientific Achievement
-  - Sporting Event/Competition
-  - Technological Achievement
-Significance Historical Events:
-  - Milestone/Era Changing
-  - Major/Global
-  - Important/National
-  - Minor/Regional
-  - Trivial/Personal
-  - Not Significant
+Type Building:
+  - Abbey
+  - Acropolis / Citadel
+  - Airport
+  - Alleyway
+  - Allotment
+  - Amphitheatre
+  - Apartment
+  - Apartment building / Tenament
+  - Apothecary
+  - Aqueduct
+  - Arcade
+  - Architectural Element, Catwalk
+  - Architectural Element, Dungeon
+  - Architectural Element, Entrance / Entryway
+  - Architectural Element, Gallery
+  - Architectural Element, Rooftop
+  - Archive
+  - Archway / Triumphal Arch
+  - Arcology / Residential Complex
+  - Arena
+  - Arsenal
+  - Art gallery
+  - Asylum
+  - Aviary
+  - Bakery
+  - Bank / Treasury
+  - Bar
+  - Barber / Dentist / Surgery
+  - Barracks
+  - Barrow / Burial ground
+  - Bathhouse
+  - Battlesite / Battlefield
+  - Bench
+  - Boathouse / Wharf
+  - Bookstore
+  - Brewery / Winery
+  - Bridge
+  - Brothel / Whorehouse
+  - Bunker
+  - Cafe Tearoom
+  - Cairn
+  - Canal
+  - Canal lock
+  - Caravanserai
+  - Casino
+  - Castle
+  - Catacomb
+  - Cathedral / Great temple
+  - Cemetery
+  - Chapel
+  - Circus
+  - Clinic
+  - Club
+  - Coffee Shop
+  - College / Academy
+  - Common area
+  - Consulate
+  - Cottage
+  - Courthouse
+  - Cowshed
+  - Craftsman, Blacksmith / Smithy
+  - Craftsman, Leatherworker
+  - Craftsman, Tanner
+  - Crypt
+  - Customs house
+  - Dam
+  - Dance club
+  - Datacenter
+  - Dojo
+  - Drug Den
+  - Dungeon
+  - Embassy
+  - Estate
+  - Factory
+  - Farm
+  - Fishery
+  - Footpath
+  - Fort
+  - Fortress
+  - Forum
+  - Foundry
+  - Fountain
+  - Garage
+  - Garden
+  - Gatehouse
+  - Gazebo / Bandstand
+  - Gazebo / Bandstand (Alive)
+  - General Store
+  - Geographic Feature
+  - Government complex
+  - Graveyard
+  - Great hall
+  - Guard post / house
+  - Guildhall
+  - Gym
+  - Hangar, Massive
+  - Henge
+  - Hideout
+  - Highway
+  - Hospital
+  - Hospitality, Camping
+  - Hospitality, Hotel
+  - Hospitality, Motel
+  - Hospitality, Resort
+  - Hospitality, Spa
+  - House
+  - House. Large
+  - Hut
+  - Hydroponics / Agricultural complex
+  - Inn
+  - Jeweler
+  - Keep
+  - Kiosk / Small store
+  - Laboratory
+  - Laboratory, Magical
+  - Lair
+  - Landing Pad
+  - Library
+  - Lighthouse
+  - Lodge, Cabin
+  - Manor house / Meeting hall
+  - Mansion / Villa
+  - Manufactory
+  - Market square
+  - Market stall
+  - Marketplace
+  - Megastructure, Dyson Sphere
+  - Megastructure, Land based
+  - Megastructure, Orbital scale
+  - Megastructure, Planetary scale
+  - Megastructure, Stellar scale
+  - Megastructure, Transorbital
+  - Memorial / War Memorial
+  - Military base / complex
+  - Mill
+  - Mine
+  - Ministry / City hall
+  - Missile launch facility
+  - Monastery
+  - Monument / statue, Large
+  - Monument, Large
+  - Museum
+  - Natural Wonder
+  - Observatory / Telescope
+  - Office
+  - Opera house
+  - Orbital, Beacon / Buoy
+  - Orbital, Halo / Ringworld
+  - Orbital, Outpost
+  - Orbital, Satelite
+  - Orbital, Shipyard
+  - Space elevator
+  - Orbital, Station
+  - Orbital, Way / Refueling station
+  - Orbital, Weapons platform
+  - Orphanage
+  - Palace
+  - Park
+  - Parliament
+  - Pier
+  - Pigsty
+  - Plaza
+  - Police / Fire station
+  - Portal
+  - Post office
+  - Power plant
+  - Prison
+  - Prison camps
+  - Pub / Tavern / Restaurant
+  - Public hall / house
+  - Quarry
+  - Racing track / Hippodrome
+  - Railroad
+  - Refinery / Industrial complex
+  - Reliquary
+  - Reservoir
+  - Retirement home
+  - Road
+  - Room, Animal, Apiary
+  - Room, Animal, Aquarium
+  - Room, Animal, Aviary
+  - Room, Animal, Dovecot
+  - Room, Animal, Enclosure
+  - Room, Animal, Insect Room
+  - Room, Animal, Menagerie
+  - Room, Animal, Pen
+  - Room, Animal, Stable
+  - Room, Animal, Tackroom
+  - Room, Chamber, Council
+  - Room, Chamber, Execution
+  - Room, Chamber, Teleportation
+  - Room, Chamber, Torture
+  - Room, Common, Antechamber
+  - Room, Common, Attic
+  - Room, Common, Balcony
+  - Room, Common, Basement
+  - Room, Common, Bathroom
+  - Room, Common, Bedroom
+  - Room, Common, Boiler room
+  - Room, Common, Boudoir
+  - Room, Common, Broom Closet
+  - Room, Common, Cellar
+  - Room, Common, Cloak room
+  - Room, Common, Closet / Wardrobe
+  - Room, Common, Conservatory
+  - Room, Common, Dining room
+  - Room, Common, Dressing room
+  - Room, Common, Elevator / Lift
+  - Room, Common, Family room
+  - Room, Common, Game room
+  - Room, Common, Garage
+  - Room, Common, Garderobe
+  - Room, Common, Green room
+  - Room, Common, Hall
+  - Room, Common, Kitchen
+  - Room, Common, Living room
+  - Room, Common, Office
+  - Room, Common, Pantry
+  - Room, Common, Parlour
+  - Room, Common, Reception
+  - Room, Common, Sauna
+  - Room, Common, Smoking room
+  - Room, Common, Solar
+  - Room, Common, Spa
+  - Room, Common, Stairwell / Staircase
+  - Room, Common, Study
+  - Room, Common, Swimming Pool
+  - Room, Common, Tea room
+  - Room, Common, Toilet / WC
+  - Room, Common, Undercroft
+  - Room, Common, Utility Closet
+  - Room, Common, Waiting room
+  - Room, Common, Washing room / Laundry
+  - Room, Common, Workshop
+  - Room, Conference / Meeting room
+  - Room, Corridor, Junction
+  - Room, Corridor, Section
+  - Room, Corridor, Fork
+  - Room, Court, Legal
+  - Room, Dome, Living
+  - Room, Dome, Terrarium
+  - Room, Education, Auditorium
+  - Room, Education, Classroom
+  - Room, Education, Lecture Hall
+  - Room, Education, Library
+  - Room, Entertainment, Arcade
+  - Room, Entertainment, Games court
+  - Room, Entertainment, Holodeck
+  - Room, Entertainment, Ice Rind
+  - Room, Entertainment, Playroom
+  - Room, Hall, Banquet
+  - Room, Hall, Dance
+  - Room, Hall, Mead
+  - Room, Hall, Throne room
+  - Room, Lab, Alchemical
+  - Room, Lab, Chemisty
+  - Room, Lab, Scientific
+  - Room, Medical, Apothecary
+  - Room, Medical, Delivery room
+  - Room, Medical, Diagnostic / Imaging
+  - Room, Medical, ER
+  - Room, Medical, Examination
+  - Room, Medical, ICU
+  - Room, Medical, Laboratory
+  - Room, Medical, Nursery
+  - Room, Medical, Recovery room
+  - Room, Medical, Surgery Theatre
+  - Room, Medical, Ward
+  - Room, Military, Armoury
+  - Room, Military, Command & Control / CiC
+  - Room, Military, Gatehouse
+  - Room, Military, Guardhouse
+  - Room, Military, Mess hall
+  - Room, Military, Wall section
+  - Room, Military, War room
+  - Room, Natural, Cavern
+  - Room, Outdoors, Alleyway
+  - Room, Outdoors, Allotment
+  - Room, Outdoors, Court
+  - Room, Outdoors, Courtyard
+  - Room, Outdoors, Garden
+  - Room, Outdoors, Greenhouse
+  - Room, Outdoors, Swimming pool
+  - Room, Religious, Aisles
+  - Room, Religious, Apse
+  - Room, Religious, Chancel
+  - Room, Religious, Chapel
+  - Room, Religious, Choir stalls
+  - Room, Religious, Clerestory
+  - Room, Religious, Loft
+  - Room, Religious, Mausoleum
+  - Room, Religious, Monastic Cell
+  - Room, Religious, Nave
+  - Room, Religious, Pulpit
+  - Room, Religious, Sanctuary
+  - Room, Religious, Sanctum / Septum
+  - Room, Religious, Shrine
+  - Room, Religious, Steeple
+  - Room, Religious, Tomb
+  - Room, Religious, Transept
+  - Room, Religious, Triforium
+  - Room, Religious, Vestry
+  - Room, Scientific, Laboratory
+  - Room, Secret, Chamber
+  - Room, Secret, Entry
+  - Room, Secret, Passage
+  - Room, Security, Cell
+  - Room, Security, Safe
+  - Room, Security, Saferoom
+  - Room, Security, Treasury / Treasure room
+  - Room, Security, Vault
+  - Room, Ship, Armourer Citadel
+  - Room, Ship, Armoury
+  - Room, Ship, Bilge
+  - Room, Ship, Bridge
+  - Room, Ship, Cabin
+  - Room, Ship, Caboose
+  - Room, Ship, Cannon / Gun deck
+  - Room, Ship, Deck
+  - Room, Ship, Engine room
+  - Room, Ship, Fire room
+  - Room, Ship, Flying Bridge
+  - Room, Ship, Forecastle
+  - Room, Ship, Gallery
+  - Room, Ship, Gangway
+  - Room, Ship, Gunroom
+  - Room, Ship, Hold
+  - Room, Ship, Magazine
+  - Room, Ship, Map room
+  - Room, Ship, Navigation
+  - Room, Ship, Operations
+  - Room, Ship, Orlop
+  - Room, Ship, Prominade
+  - Room, Ship, Quarters, Captain
+  - Room, Ship, Quarters, Crew
+  - Room, Ship, Quarters, Officer
+  - Room, Ship, Saferoom
+  - Room, Ship, Sick bay
+  - Room, Ship, Steerage
+  - Room, Ship, Wardroom
+  - Room, Special, Buttery
+  - Room, Special, Catacomb
+  - Room, Special, Counting House
+  - Room, Special, Crawlspace / Jefferies tube
+  - Room, Special, Crypt
+  - Room, Special, Engineering
+  - Room, Special, Factory Floor
+  - Room, Special, Forge
+  - Room, Special, Furnace / Incinerator
+  - Room, Special, Ice house
+  - Room, Special, Observatory
+  - Room, Special, Oratory / Solar
+  - Room, Special, Postroom
+  - Room, Special, Scullery
+  - Room, Special, Server room
+  - Room, Special, Trophies room
+  - Room, Storage, Freezer
+  - Room, Storage, Loading Bay
+  - Room, Storage, Other
+  - Room, Storage, Warehouse
+  - Room, Studio, Art
+  - Room, Studio, Film
+  - Room, Studio, Music
+  - Room, Studio, Other
+  - Room, Theatre, Box
+  - Room, Theatre, Hall
+  - Room, Theatre, Home
+  - Room, Theatre, Stage
+  - Room, Tower, Clock
+  - Room, Tower, Other
+  - Room, Tower, Wizard
+  - Room, Training, Gym
+  - Room, Training, Sparring
+  - Ruins
+  - School
+  - Seaport
+  - Sewer, Network
+  - Sewer, Section
+  - Shed
+  - Sheepfold
+  - Shelter
+  - Shop, Cobbler
+  - Shop, Generic
+  - Shop, Magic
+  - Shop, Tailor
+  - Shopping mall / Commercial Complex
+  - Shrine
+  - Skyscraper
+  - Slaughterhouse
+  - Smelter
+  - Spaceport
+  - Spot
+  - Stables
+  - Stadium
+  - Statue
+  - Storage house / Silo
+  - Store
+  - Street
+  - Supermarket / Megastore
+  - Tattoo Parlor
+  - Technology Complex
+  - Temple / Church
+  - Temple / Religious Complex
+  - Theatre / Concert hall
+  - Theme park / Entertainment Complex
+  - Timberyard
+  - Tolls
+  - Tomb
+  - Tower
+  - Tower, Guard
+  - Tower, Mage
+  - Tower, Telecomms
+  - Tower, Wall
+  - Tower, Water
+  - Town Square
+  - Transportation hub
+  - Transportation station
+  - Tree
+  - Tree house
+  - Tunnel
+  - University / Educational Complex
+  - Vehicle, Ship
+  - Vehicle, Spaceship
+  - Viewpoint
+  - Vineyard / Orchard
+  - Wall section
+  - Warehouse / Granary
+  - Warehouse, Commercial
+  - Warehouse, Industrial
+  - Warehouse, Massive / Storage Complex
+  - Warehouse, Residential
+  - Water pump / Well, Large
+  - Well
+  - Workshop
+  - World wonder
+Type Condition:
+  - Bacterial
+  - Chemical Compound
+  - Divine
+  - Genetic
+  - Fungal
+  - Magical
+  - Mental
+  - Nanites / Mechanical
+  - Neurological
+  - Parasitic
+  - Physiological
+  - Prion
+  - Supernatural
+  - Viral
+Origin Condition:
+  - Alien
+  - Divine
+  - Engineered
+  - Magical
+  - Mutated
+  - Natural
+Rarity Condition:
+  - Common
+  - Uncommon
+  - Rare
+  - Extremely Rare
+  - Unique
+Cycle Condition:
+  - Short-term
+  - Chronic, Acquired
+  - Chronic, Congenital
+  - Chronic, Acquired &amp; Congenital
+Type Document:
+  - Announcement, Invitation
+  - Announcement, RSVP
+  - Certificate, Civil
+  - Certificate, Professional
+  - Certificate, Education (Degree)
+  - Contract, Private
+  - Contract, Civil
+  - Decree, Royal
+  - Decree, Religious
+  - Decree, Governmental
+  - Entertainment, Game
+  - Entertainment, Generic
+  - Entertainment, Movie
+  - Entertainment, Show
+  - Entertainment, Series
+  - Guide, Generic
+  - Guide, Survival
+  - Guide, How-to
+  - Identification, Private
+  - Identification, Civil (Passport/ID Card)
+  - Imagery, Artistic
+  - Imagery, Religious
+  - Imagery, Graphic Novel / Comic Book
+  - Journal, Personal
+  - Journal, Scientific
+  - Journal, Medical
+  - Leaked Original
+  - Licence, Civil
+  - Licence, Professional
+  - Licence, Private (Letter of Marque)
+  - Manual, Professional Skills
+  - Manual, Military
+  - Manual, Artistic
+  - Manual, Martial Art / Combat
+  - Manual, Culinary
+  - Manual, Magical / Occult
+  - Manual, Scientific
+  - Manual, Technical / Blueprint
+  - Manual, Musical
+  - Manual, Linguistic (Lexicon)
+  - Manuscript, Religious
+  - Manuscript, Historical
+  - Manuscript, Legal
+  - Manuscript, Magical (Tome/Scroll)
+  - Manuscript, Musical
+  - Manuscript, Artistic
+  - Manuscript, Literature
+  - Map, Geological
+  - Map, Geopolitical
+  - Map, Topographic
+  - Map, Survey
+  - Map, Military
+  - Map, Historical
+  - Map, Weather
+  - Map, Economic
+  - Map, Star chart
+  - Map, Thematic
+  - Map, Artistic
+  - Map, Atlas
+  - Map, Floorplan
+  - Map, Treasure
+  - Other, Flyer
+  - Other, Poster
+  - Record, Patent
+  - Record, Culinary (Menu)
+  - Record, Judicial
+  - Record, Public
+  - Record, Financial (Bill, Invoice, Fine etc)
+  - Record, Deed
+  - Record, Title
+  - Record, Employment
+  - Record, Historical
+  - Record, Musical (Music, Sheet)
+  - Record, Memo
+  - Record, Logbook
+  - Record, Business Accounts
+  - Record, Research Notes
+  - Record, Transcript (Communication)
+  - Report, Civil
+  - Report, Military
+  - Report, Scientific
+  - Report, Intelligence
+  - Report, Financial
+  - Report, Manifest
+  - Report, Incident
+  - Statement, Political (Manifesto)
+  - Statement, Financial
+  - Statement, Inscription / Graffiti
+  - Statement, Artistic
+  - Study, Scientific
+  - Study, Artistic
+  - Study, Historical
+  - Study, Magical
+  - Study, Religious
+  - Text, Religious
+  - Text, Philosophical
+  - Text, Literary (Novel/Poetry)
+  - Text, Legislative
+  - Text, Letter
+  - Text, Literature
+  - Text, Newspaper
+  - Text, Magazine
+  - Textbook
+  - Treaty, Diplomatic
+  - Treaty, Trade
+  - Warrant, Royal
+  - Warrant, Civil
+  - Warrant, Arrest
+  - Warrant, Wanted / Search
+Medium Document:
+  - Analog Recording, Audio
+  - Analog Recording, Video
+  - Canvas
+  - Clay
+  - Collage / Various
+  - Crystal, Photonic
+  - Crystal, Magical
+  - Crystal, Psionic
+  - Digital Recording, Text
+  - Digital Recording, Audio
+  - Digital Recording, Video
+  - Digital Recording, Various
+  - Digital, Holographic
+  - Embroidered
+  - Glass / Stained Glass
+  - Invisible
+  - Metal
+  - Organic
+  - Oral Tradition / Word of Mouth
+  - Paper
+  - Papyrus
+  - Psionic
+  - Stone
+  - Vellum / Skin
+  - Wood
 Type Geographic Location:
   - Abyss
   - Air Mass
@@ -195,6 +742,610 @@ Type Geographic Location:
   - Woods
   - World
   - Wormhole
+Type Historical Event:
+  - Artistic Creation
+  - Celestial/Cosmic
+  - Civil Action
+  - Construction Beginning/End
+  - Criminal Activity
+  - Cultural Event
+  - Diplomatic Action
+  - Disaster/Destruction
+  - Disbandment
+  - Discovery, Exploration
+  - Discovery, Scientific
+  - Era Beginning/End
+  - Expedition
+  - Extinction
+  - Financial Event
+  - Founding
+  - Fathering/Conference
+  - Geological/Environmental Event
+  - Life, Achievement/Win
+  - Life, Birth
+  - Life, Career
+  - Life, Crime
+  - Life, Death
+  - Life, Education
+  - Life, Failure/Mishap
+  - Life, Identity
+  - Life, Milestone
+  - Life, Organisation Association
+  - Life, Publicity
+  - Life, Relationship Change
+  - Life, Relocation
+  - Life, Supernatural
+  - Life, Trauma/Loss
+  - Life, Wealth
+  - Linguistic Evolution
+  - Marriage
+  - Metaphysical/Paranormal Event
+  - Military Action
+  - "Military: Battle"
+  - "Military: Skirmish"
+  - "Military: War"
+  - Miscellaneous
+  - Plague/Epidemic
+  - Political Event
+  - Population Migration/Travel
+  - Religious Event
+  - Revolution
+  - Scientific Achievement
+  - Sporting Event/Competition
+  - Technological Achievement
+Significance Historical Events:
+  - Milestone/Era Changing
+  - Major/Global
+  - Important/National
+  - Minor/Regional
+  - Trivial/Personal
+  - Not Significant
+Type Item:
+  - Ammunition
+  - Armor
+  - Art
+  - Award
+  - Bionic
+  - Book / Document
+  - Clothing / Accessory
+  - Communication
+  - Component
+  - Compound
+  - Consumable, Food / Drink
+  - Consumable, Magical
+  - Currency &amp; Deeds
+  - Cybernetic
+  - Drug / Narcotic / Medicine
+  - Electronic / Cybernetic
+  - Element, Chemical
+  - Furniture
+  - Jewelry / Valuable
+  - Magical
+  - Mechanical
+  - Medical
+  - Miscellaneous
+  - Musical Instrument
+  - Navigational Aid / Instrument
+  - Pataphysical
+  - Power Storage / Generator
+  - Raw Material
+  - Religious / Ritualistic
+  - Robotic
+  - Sensory / Aid
+  - Service
+  - Storage
+  - Survival
+  - Tool
+  - Toy
+  - Trade/Manufactured good
+  - Trap
+  - Trophy
+  - Unique Artifact
+  - Weapon, Explosive
+  - Weapon, Melee
+  - Weapon, Other
+  - Weapon, Ranged
+Type Law:
+  - Natural
+  - Metaphysical
+  - Metaphysical, Arcane
+  - Metaphysical, Astral
+  - Metaphysical, Demonic
+  - Metaphysical, Divine
+  - Metaphysical, Elemental
+  - Metaphysical, Psychic
+  - Metaphysical, Supernatural
+Type Material:
+  - Biomaterial
+  - Ceramic
+  - Composite
+  - Concrete
+  - Electronic
+  - Elemental / Molecular
+  - Glass
+  - Livestock
+  - Metal
+  - Metaphysical
+  - Metamaterial
+  - Mineral
+  - Nanomaterial
+  - Organic
+  - Ore
+  - Ore/Mineral
+  - Optic
+  - Polymer
+  - Plastic
+  - Rock
+  - Rock, Igneous
+  - Rock, Metamorphic
+  - Rock, Sedimentary
+  - Semiconductor
+  - Stone
+  - Textile
+  - Wood
+Type Military Conflict:
+  - War
+  - War, Theatre
+  - Military Campaign
+  - Battle
+  - Invasion
+  - Siege
+  - Skirmish
+  - Duel
+  - Political Debate
+  - Sports Event
+  - Showdown
+  - Intelligence
+  - Espionage
+  - Covert Operation
+  - Rebellion
+  - Civil War
+  - Legal Case
+Location Type Military Conflict:
+  - Land
+  - Urban
+  - Naval
+  - Air
+  - Planetary
+  - Space
+  - Extraplanar
+  - Stadium
+  - Arena
+Type Military Formation:
+  - Air Force
+  - Airborne
+  - Armour
+  - Artillery
+  - Cavalry
+  - Cyber
+  - Containment/Hazmat
+  - Covert Ops
+  - Escort
+  - Infantry
+  - Intelligence
+  - Magic
+  - Marines
+  - Medical
+  - Mech
+  - Mechanized
+  - Mercenary
+  - Motorized
+  - Militia
+  - Navy
+  - Paramilitary
+  - Raiding parties
+  - Reserves
+  - Security
+  - Shock
+  - Special Forces
+  - Spaceborne
+  - Space/EVA
+  - Support
+Assumed Veterancy Military Formation:
+  - Decorated/Honored
+  - Veteran
+  - Experienced
+  - Trained
+  - Recruit
+Overall Training Level Military Formation:
+  - Elite
+  - Professional
+  - Semi-professional
+  - Trained
+  - Semi-trained
+  - Levy
+  - Untrained
+Type Organization:
+  - Activist, Charity
+  - Adventuring Party
+  - Alliance, Cultural
+  - Alliance, Economic
+  - Alliance, Generic
+  - Alliance, Military
+  - Broadcasting, Digital Network / Website
+  - Broadcasting, Newspaper / Magazine
+  - Broadcasting, Other
+  - Broadcasting, Radio
+  - Broadcasting, Television Network
+  - Civil Services
+  - Civilian, Crew
+  - Civilian, Knightly Order
+  - Consortium, Business
+  - Consortium, Financial
+  - Consortium, Research
+  - Corporation, Aerospace
+  - Corporation, Agriculture
+  - Corporation, Business
+  - Corporation, Commerce
+  - Corporation, Conglomerate
+  - Corporation, Construction
+  - Corporation, Education
+  - Corporation, Electronics Industry
+  - Corporation, Energy Industry
+  - Corporation, Entertainment
+  - Corporation, Finance
+  - Corporation, Financial
+  - Corporation, Food Industry
+  - Corporation, Hospitality
+  - Corporation, Infrastructure
+  - Corporation, Law Firm
+  - Corporation, Manufacturing
+  - Corporation, Medical
+  - Corporation, Mining/Resources
+  - Corporation, News &amp; Media
+  - Corporation, Pharmaceutical
+  - Corporation, Research &amp; Development
+  - Corporation, Security
+  - Corporation, Telecommunication
+  - Corporation, Transportation
+  - Coterie
+  - Court System
+  - Court, Noble
+  - Court, Royal
+  - Druidic Circle
+  - Education, Faculty
+  - Education, Magic
+  - Educational, Library
+  - Educational, School/Academy
+  - Educational, Scientific Institute
+  - Educational, Society
+  - Educational, University
+  - Entertainment, Music band
+  - Entertainment, Sports team
+  - Entertainment, Troupe
+  - Exotic, Gestalt Consciousness
+  - Expedition, Colonization
+  - Expedition, Military
+  - Expedition, Scientific
+  - Family
+  - Financial, Bank
+  - Financial, Merchant League
+  - Financial, Other
+  - Geopolitical, Archduchy
+  - Geopolitical, Band
+  - Geopolitical, Barony
+  - Geopolitical, City council
+  - Geopolitical, City-state
+  - Geopolitical, Clan
+  - Geopolitical, Co-rulership
+  - Geopolitical, Colony
+  - Geopolitical, Country
+  - Geopolitical, County / March
+  - Geopolitical, Duchy
+  - Geopolitical, Empire
+  - Geopolitical, Free City
+  - Geopolitical, Great house
+  - Geopolitical, Kingdom
+  - Geopolitical, Ladyship
+  - Geopolitical, Lordship
+  - Geopolitical, Magocracy
+  - Geopolitical, Manor
+  - Geopolitical, Marquisate
+  - Geopolitical, Nomadic tribe
+  - Geopolitical, Principality
+  - Geopolitical, Protectorate
+  - Geopolitical, Province
+  - Geopolitical, Queendom
+  - Geopolitical, Republic
+  - Geopolitical, Settlement
+  - Geopolitical, State
+  - Geopolitical, Stratocracy
+  - Geopolitical, Technocracy
+  - Geopolitical, Theocracy
+  - Geopolitical, Town Council
+  - Geopolitical, Tribe
+  - Geopolitical, Vicekingdom
+  - Geopolitical, Vicequeendom
+  - Geopolitical, Village council
+  - Geopolitical, Viscounty
+  - Government, Law Enforcement
+  - Government, Leadership
+  - Government, Secret Service
+  - Governmental, Department
+  - Governmental, Inquisitorial
+  - Governmental, Ministry
+  - Governmental, Senate/Parliament
+  - Guild, Adventuring
+  - Guild, Assassins
+  - Guild, Craftsmen
+  - Guild, Craftswomen
+  - Guild, Fighter / Mercenary
+  - Guild, Mages
+  - Guild, Merchant
+  - Guild, Privateers
+  - Guild, Professional
+  - Guild, Thieves
+  - Illicit, Cartel
+  - Illicit, Front
+  - Illicit, Gang
+  - Illicit, Other
+  - Illicit, Pirate Crew
+  - Illicit, Rebel
+  - Illicit, Syndicate
+  - Illicit, Terrorist group
+  - Information Network
+  - Megacorporation
+  - Military Order
+  - Military,  Coast Guard
+  - Military,  Marine Corps Division
+  - Military,  Marine Corps Squad
+  - Military,  Paramilitary/Militia
+  - Military, Air Force
+  - Military, Air Force Command
+  - Military, Air Force Element
+  - Military, Air Force Flight
+  - Military, Air Force Squadron
+  - Military, Air Force Wing
+  - Military, Armed Forces
+  - Military, Army
+  - Military, Army Battalion
+  - Military, Army Brigade
+  - Military, Army Command
+  - Military, Army Company
+  - Military, Army Corps
+  - Military, Army Division
+  - Military, Army Platoon
+  - Military, Army Regiment
+  - Military, Army Squad
+  - Military, Crew
+  - Military, Inquisitorial
+  - Military, Intelligence
+  - Military, Knightly Order
+  - Military, Marine Corps
+  - Military, Marine Corps Company
+  - Military, Marine Corps Platoon
+  - Military, Marine Corps, Battalion
+  - Military, Marine Corps, Brigade
+  - Military, Marine Corps, Command
+  - Military, Medical
+  - Military, Mercenary Group
+  - Military, Navy
+  - Military, Navy Admiralty
+  - Military, Navy Fleet
+  - Military, Navy Squadron
+  - Military, Navy Task force
+  - Military, Other
+  - Military, Space navy
+  - Military, Special Operations Force
+  - Political, Activist
+  - Political, Confederation
+  - Political, Faction / Party
+  - Political, Family
+  - Political, Federation
+  - Political, independent
+  - Political, International
+  - Political, Triumvirate
+  - Religious, Archidiaconate
+  - Religious, Bishopric
+  - Religious, Coven
+  - Religious, Cult
+  - Religious, Deanery
+  - Religious, Divine Host
+  - Religious, Druidic Circle
+  - Religious, Financial
+  - Religious, Holy Order
+  - Religious, Inquisitorial
+  - Religious, Monastic Order
+  - Religious, Organised Religion
+  - Religious, Other
+  - Religious, Pantheon
+  - Religious, Parish
+  - Religious, Primacy
+  - Religious, Sect
+  - Religious, Temple
+  - Research, Council
+  - Research, Medical
+  - Research, Recurring Symposium
+  - Research, Think Tank
+  - Secret, Brotherhood
+  - Secret, Government
+  - Secret, Governmental arm
+  - Secret, Military
+  - Secret, Occult
+  - Secret, Religious sect
+  - Secret, Sisterhood
+  - Social, Activist
+  - Social, Brotherhood
+  - Social, Clique
+  - Social, Group
+  - Social, Sisterhood
+  - Superhero Team
+Government System Organization:
+  - Anarchy
+  - Banana Republic
+  - Corporatocracy
+  - Democracy, Direct
+  - Democracy, Parliamentary
+  - Democracy, Presidential
+  - Democracy, Representative
+  - Despotism
+  - Dictatorship
+  - Electocracy
+  - Gerontocracy
+  - Hive-mind
+  - Kakistocracy
+  - Kratocracy
+  - Kritarchy
+  - Machine government
+  - Magocracy
+  - Meritocracy
+  - Monarchy, Absolute
+  - Monarchy, Constitutional
+  - Monarchy, Crowned Republic
+  - Monarchy, Elective
+  - Monarchy, Theocratic
+  - Ochlocracy
+  - Oligarchy
+  - Plutocracy
+  - Sortition
+  - Stratocracy
+  - Technocracy
+  - Thanatocracy / Necrocracy
+  - Theocracy
+  - Timocracy
+  - Tribalism
+Power Structure System Organization:
+  - Autonomous area
+  - Client state / puppet state
+  - Confederation
+  - Dependent territory
+  - Federation
+  - Feudal state
+  - Provisional government
+  - Semi-autonomous area
+  - Thalassocracy
+  - Transnational government
+  - Unitary state
+Economic System Organization:
+  - Barter system
+  - Command/Planned economy
+  - Gift economy
+  - Market economy
+  - Mixed economy
+  - Palace economy
+  - Post-scarcity economy
+  - Traditional
+Training Level Organization:
+  - Elite
+  - Professional
+  - Semi-professional
+  - Trained
+  - Semi-trained
+  - Levy
+  - Untrained
+Veterancy Organizations:
+  - Decorated/Honored
+  - Veteran
+  - Experienced
+  - Trained
+  - Recruit
+Type Profession:
+  - Administration / Management
+  - Agricultural / Fishing / Forestry
+  - Arcane
+  - Architecture
+  - Artisan
+  - Athlete
+  - Consulting
+  - Contracting
+  - Construction
+  - Culinary
+  - Domestic Work
+  - Education
+  - Engineering
+  - Entertainment
+  - Financial / Trade
+  - Forced Labour
+  - Government
+  - Healthcare
+  - Hospitality
+  - Hunting
+  - Illicit
+  - Industrial
+  - Intelligence Gathering
+  - Legal
+  - Medical
+  - Military
+  - Political
+  - Private Services
+  - Public Relations
+  - Public Services
+  - Religious
+  - Retail
+  - Research / Scientific
+  - Raw Materials Gathering
+  - Sanitation
+  - Servant
+  - Social Services
+  - Technology
+  - Transportation
+Type Rank Title:
+  - Academic, Honorific
+  - Academic, Professional
+  - Academic, Qualification
+  - Civic, Citizenship
+  - Civic, Diplomatic
+  - Civic, Honorific
+  - Civic, Law
+  - Civic, Political
+  - Civic, Military, Generic
+  - Civic, Military, Commissioned
+  - Civic, Military, Not Commissioned
+  - Civic, Professional
+  - Familial
+  - Informal
+  - Magical, Honorific
+  - Magical, Professional
+  - Medical
+  - Nobility, Hereditary
+  - Nobility, Honorific / Ceremonial
+  - Nobility, Household
+  - Nobility, Military
+  - Nobility, Non-hereditary
+  - Professional
+  - Religious, Beatified
+  - Religious, Clerical
+  - Religious, Military
+  - Religious, Special
+  - Religious, Political
+  - Royalty, Hereditary
+  - Royalty, Honorific / Ceremonial
+  - Royalty, Household
+  - Royalty, Military
+  - Royalty, Non-hereditary
+  - Self proclaimed
+  - Scientific, Honorific
+  - Scientific, Professional
+Type Settlement:
+  - Caravan
+  - Camp, Temporary
+  - Slum
+  - Military, Camp
+  - Military, Base
+  - Hamlet
+  - Outpost / Base
+  - Village
+  - Neighbourhood
+  - Town
+  - Underground / Vault
+  - Large town
+  - Quarter
+  - Trade post
+  - District
+  - Ward
+  - City
+  - Large city
+  - Arcology
+  - Orbital, Station
+  - Metropolis
+  - Capital
+  - Conurbation
+  - Citadel
+  - Megalopolis
+  - State
+  - National Territory
+  - Ecumenopolis
+  - Starbase
 ---
 # Properties Template
 #z_Templates 

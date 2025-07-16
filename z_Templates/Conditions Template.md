@@ -2,6 +2,10 @@
 aliases: 
 tags:
   - Condition
+Type Condition: 
+Origin Condition: 
+Rarity Condition: 
+Cycle Condition:
 ---
 # Conditions Template
 #z_Templates
@@ -12,9 +16,6 @@ tags:
 [[Conditions_
 #### Affected Species
 [[Species_
-#### Origin
-#### Rarity
-#### Cycle
 #### Transmission / Vectors
 #### Cause
 #### Symptoms

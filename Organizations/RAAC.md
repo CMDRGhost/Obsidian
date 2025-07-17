@@ -1,18 +1,22 @@
 ---
 aliases:
-  - Organizations_Imperial Army
+  - Organizations_RAAC
 tags:
   - Organization
 Type Organization:
-  - Military, Army
-Government System Organization: 
+  - Expedition, Colonization
+Government System Organization:
+  - Machine government
 Power Structure System Organization: 
-Economic System Organization: 
+Economic System Organization:
+  - Command/Planned economy
 Training Level Organization:
   - Elite
 Veterancy Organizations:
 ---
-# Imperial Army
+# RAAC
+An artificial intelligence, that knowingly or unknowingly destroyed its creators and now has only the goal to expand its own Influence over everything it sees. It hasn't reached a level of expansion, knowledge or energy where it would be unstoppable, but it is dangerous non the less and currently the main threat the [[Empire]] faces.
+
 
 
 # Details
@@ -20,28 +24,30 @@ Veterancy Organizations:
 ## Generic
 #### Motto / Slogan / Axiom
 #### Alternative names
+Rapidly Advancing Artificial Colonizer
 #### Demonym
 /*Demonym is a word that identifies residents or natives of a particular place, which is derived from the name of that particular place. For example "French" is the demonym for someone from France.*/
 #### Founding Date
+Unknown
 #### Dissolution Date
 #### Leader
 [[Characters_
 #### Ruling Organization
-[[Empire|Organizations_Empire]]
+[[Organizations_
 #### Leader Title
-[[Emperor|Ranks_Titles_Emperor]]
+[[Ranks_Titles_
 #### Founders
 [[Characters_
 #### Parent Organization
-[[Empire|Organizations_Empire]]
+[[Organizations_
 #### Geographic Location / Base Settlement / HQ
 [[Geographic_Locations_
 [[Settlements_
 [[Buildings_
 #### Related Species
-[[Human|Species_Human]]
+[[Species_Unknown Species δ]] 
 #### Related Ethnicities
-[[Imperial (Ethnicity)|Ethnicities_Imperial]]
+[[Ethnicities_
 #### Organization structure
 #### Culture
 #### Public agenda
@@ -49,7 +55,7 @@ Veterancy Organizations:
 #### History
 #### Disbandment
 #### Predecessor Organizations
-[[Organizations_
+[[Organizations_Unknown Species δ Empire]] 
 #### Successor Organizations
 [[Organizations_
 ## Geopolitical

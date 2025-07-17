@@ -72,7 +72,7 @@ Veterancy Organizations:
 [[Settlements_
 [[Buildings_
 #### Official Currency
-#### legislative Body
+#### Legislative Body
 #### Judicial Body
 #### Executive Body
 #### Demography & Population

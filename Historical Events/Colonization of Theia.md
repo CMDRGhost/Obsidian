@@ -11,6 +11,7 @@ timelines:
   - Empire
 Type Historical Event:
   - Technological Achievement
+  - Construction Beginning/End
 Significance Historical Events:
   - Major/Global
 ---
@@ -33,8 +34,8 @@ Technological Achievement
 #### Related Session Report
 [[Session_Reports_
 #### Related Location
-[[Geographic_Locations_Theia]]
-[[Geographic_Locations_Eos and Astraeus]]
+[[Theia|Geographic_Locations_Theia]]
+[[Eos and Astraeus]]
 [[Settlements_  
 [[Buildings_
 #### Related Species

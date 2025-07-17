@@ -3,6 +3,8 @@ aliases:
   - Ranks_Titles_Emperor
 tags:
   - Rank_Title
+Type Rank Title:
+  - Civic, Military, Not Commissioned
 ---
 # Emperor
 

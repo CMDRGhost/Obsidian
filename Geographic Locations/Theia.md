@@ -12,7 +12,7 @@ Type Geographic Location:
 
 # Details
 #### Parent Location
-[[Geographic_Locations_Local Group]]
+[[Local Systems]]
 #### Ruler / Owner
 [[Characters_
 #### Owning Rank
@@ -22,10 +22,12 @@ Type Geographic Location:
 #### Organizations Contesting Ownership of the Location
 [[Organizations_
 #### Alternative Name(s)
+The twin system
 #### Geography
 #### Ecosystem
 #### Ecosystem Cycles
 #### Localized Phenomena
+Theia houses the two binary planets [[Eos and Astraeus]]. They have been terraformed to be habitable for humans.
 #### Climate
 #### Flora & Fauna
 #### Natural resources
@@ -67,3 +69,6 @@ Habitable zone: 0.367AU - 0.528AU
 Hill Sphere: ca. 917 * 10^6 m
 0.5 * Hill Sphere: ca. 458 * 10^6 m
 Roche limit: ca. 6.275 * 10^6 m
+
+The planets must have a distance between 458 * 10^6 m and 6.275 * 10^6 m.
+The distance earth-moon is 384 * 10^6 m. To decrease the needed travel time a small distance would be useful.

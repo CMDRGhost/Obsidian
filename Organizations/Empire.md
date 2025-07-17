@@ -3,6 +3,17 @@ aliases:
   - Organizations_Empire
 tags:
   - Organization
+Type Organization:
+  - Geopolitical, Empire
+Veterancy Organizations: 
+Training Level Organization:
+  - Elite
+Economic System Organization:
+  - Post-scarcity economy
+Government System Organization:
+  - Meritocracy
+Power Structure System Organization:
+  - Unitary state
 ---
 # Empire
 
@@ -29,6 +40,8 @@ Imperial
 [[Organizations_
 #### Geographic Location / Base Settlement / HQ
 [[Geographic_Locations_
+[[Settlements_
+[[Buildings_
 #### Related Species
 [[Species_
 #### Related Ethnicities
@@ -59,9 +72,11 @@ Imperial
 [[Languages_
 #### Official State Religion
 #### Important Locations (Gazetteer)
-[[Geographic_Locations_
+[[Local Systems]]
+[[Settlements_
+[[Buildings_
 #### Official Currency
-#### legislative Body
+#### Legislative Body
 #### Judicial Body
 #### Executive Body
 #### Demography & Population

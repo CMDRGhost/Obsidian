@@ -96,7 +96,7 @@ Unknown
 #### Education
 #### Infrastructure
 #### Technological and Scientific Level
-## Religious
+## Religious 
 #### Deities
 [[Characters_
 #### Mythology

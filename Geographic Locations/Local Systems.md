@@ -18,7 +18,7 @@ Type Geographic Location:
 #### Owning Rank
 [[Emperor|Ranks_Titles_Emperor]]
 #### Owning Organization
-[[Empire|Organizations_Empire]]
+[[Organizations/Empire|Organizations_Empire]]tions_Empire]]
 #### Organizations Contesting Ownership of the Location
 [[Organizations_
 #### Alternative Name(s)

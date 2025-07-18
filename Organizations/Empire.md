@@ -67,7 +67,7 @@ Imperial
 #### Power Structure System
 #### Economic System
 #### Neighboring Geopolitical Organizations
-[[Organizations_
+[[Organizations/RAAC|Organizations_RAAC]]
 #### Recognised/Official Languages
 [[Languages_
 #### Official State Religion

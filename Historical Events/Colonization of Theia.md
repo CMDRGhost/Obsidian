@@ -16,7 +16,7 @@ Significance Historical Events:
   - Major/Global
 ---
 # Colonization of Theia
-After the [[Organizations/Empire|Empire]] had its first roots in the [[Seshat]] system established it looked for other terraformable Planets in the region. They quickly noticed a nearby system with twin planets that orbit their star in the habitable zone. These Planets would later be known as Eos and Astraeus.
+After the [[Organizations/Empire]]rganizations_Empire]] had its first roots in the [[Seshat]] system established it looked for other terraformable Planets in the region. They quickly noticed a nearby system with twin planets that orbit their star in the habitable zone. These Planets would later be known as Eos and Astraeus.
 
 # Details
 #### Significance
@@ -28,7 +28,7 @@ Technological Achievement
 #### Full content
 #### Related Characters
 [[Characters_
-#### Related [[Organizations/Empire|Organizations_Empire]]mpire|Organizations_Empire]]
+#### Rela[[Organizations/Empire|Organizations_Empire]]re]]mpire|Organizations_Empire]]
 #### Related Article
 #### Related Session Report
 [[Session_Reports_

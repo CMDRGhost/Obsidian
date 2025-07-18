@@ -27,12 +27,12 @@ Veterancy Organizations:
 #### Leader
 [[Characters_
 #### Ruling Organization
-[[/Organizations/Empire|Organizations_Empire]]tions_Empire]]
+[[Organizations/Empire|Organizations_Empire]]ions_Empire]]
 #### Leader Title
 [[Emperor|Ranks_Titles_Emperor]]
 #### Founders
 [[Characters_
-#### Parent[[/Organizations/Empire|Organizations_Empire]]mpire|Organizations_Empire]]
+#### Parent[[[Organizations_Empire|Organizations_Empire]]ire|Organizations_Empire]]
 #### Geographic Location / Base Settlement / HQ
 [[Geographic_Locations_
 [[Settlements_

@@ -1,28 +1,27 @@
 ---
 aliases:
-  - Geographic_Locations_Eos and Astraeus
-  - Theia 2 A and B
+  - Geographic_Locations_Theia 1
 tags:
   - Geographic_Location
 Type Geographic Location:
+  - Planet
 ---
-Eos and Astraeus
-
+# Theia 1
+A mercury-like planet with a metal content of over 70%. The [[Alien Artifact Theia 1 I]] was found here.
 
 
 # Details
 #### Parent Location
-[[repository/Geographic Locations/Theia|Geographic_Locations_Theia]]
+[[Theia|Geographic_Locations_Theia]]
 #### Ruler / Owner
 [[Characters_
 #### Owning Rank
 [[Ranks_Titles_
 #### Owning Organization
-[[repository/Organizations/Empire|Organizations_Empire]]
+[[Organizations_
 #### Organizations Contesting Ownership of the Location
 [[Organizations_
 #### Alternative Name(s)
-The twin planets
 #### Geography
 #### Ecosystem
 #### Ecosystem Cycles

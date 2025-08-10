@@ -37,7 +37,7 @@ tags:
 #### Attained Technological Levels
 ## Connections & Relations
 #### Related Locations
-[[Theia|Geographic_Locations_Theia]]
+[[repository/Geographic Locations/Theia|Geographic_Locations_Theia]]
 #### Parent Ethnicities
 [[Ethnicities_
 #### Major Organizations

@@ -1,28 +1,25 @@
 ---
-aliases:
-  - Geographic_Locations_Eos and Astraeus
-  - Theia 2 A and B
+aliases: 
 tags:
   - Geographic_Location
 Type Geographic Location:
 ---
-Eos and Astraeus
-
+# Theia 3
+A terrestrial Planet
 
 
 # Details
 #### Parent Location
-[[repository/Geographic Locations/Theia|Geographic_Locations_Theia]]
+[[Theia|Geographic_Locations_Theia]]
 #### Ruler / Owner
 [[Characters_
 #### Owning Rank
 [[Ranks_Titles_
 #### Owning Organization
-[[repository/Organizations/Empire|Organizations_Empire]]
+[[Organizations_
 #### Organizations Contesting Ownership of the Location
 [[Organizations_
 #### Alternative Name(s)
-The twin planets
 #### Geography
 #### Ecosystem
 #### Ecosystem Cycles

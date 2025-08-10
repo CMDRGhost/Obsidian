@@ -43,7 +43,7 @@ Featherless Bipeds
 #### Average Weight
 #### Average Length
 #### Geographic Distribution
-Only found in the [[Empire]].
+Only found in the [[repository/Organizations/Empire]].
 #### Average Intelligence
 #### Average Physique
 #### Facial Characteristics and Features

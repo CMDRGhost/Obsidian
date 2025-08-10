@@ -21,7 +21,7 @@ Type Rank Title:
 [[Settlements_
 [[Buildings_Emperor's_Estate]]
 #### Related Organizations
-[[Empire|Organizations_Empire]]
+[[repository/Organizations/Empire|Organizations_Empire]]
 #### Source of Authority
 Their tactical genius and the deeds they did for the empire gives the Emperor great authority and prestige.
 #### Length of Term

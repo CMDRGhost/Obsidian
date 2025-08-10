@@ -53,7 +53,7 @@ Imperial
 #### History
 #### Disbandment
 #### Predecessor Organizations
-[[Organizations_Human_Empire]]
+[[Organizations_
 #### Successor Organizations
 [[Organizations_
 ## Geopolitical

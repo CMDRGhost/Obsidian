@@ -1,6 +1,7 @@
 ---
 aliases:
   - Organizations_RAAC
+  - Rapidly Advancing Artificial Colonizer
 tags:
   - Organization
 Type Organization:

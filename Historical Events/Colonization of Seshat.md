@@ -23,7 +23,7 @@ Significance Historical Events:
 #### Significance
 #### Type
 #### Short Description/Excerpt
-The, until then, [[Human_Empire]] created their first interstellar colony in the system now know as [[Seshat]], which would become their central system and the construction site of [[The Brain]]. The Brain is a
+The [[Empire]] created their first interstellar colony in the system now know as [[Seshat]], which would become their central system and the construction site of the [[Central Processor]], also called the Brain. The Brain is a type of premature matrioshka brain.
 
 #### Full content
 #### Related Characters

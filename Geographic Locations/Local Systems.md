@@ -12,13 +12,13 @@ Type Geographic Location:
 
 # Details
 #### Parent Location
-[[Geographic_Locations_Milky way]]
+[[Geographic_Locations_Milky Way]]
 #### Ruler / Owner
 [[Characters_
 #### Owning Rank
 [[Emperor|Ranks_Titles_Emperor]]
 #### Owning Organization
-[[Empire|Organizations_Empire]]
+[[repository/Organizations/Empire|Organizations_Empire]]
 #### Organizations Contesting Ownership of the Location
 [[Organizations_
 #### Alternative Name(s)

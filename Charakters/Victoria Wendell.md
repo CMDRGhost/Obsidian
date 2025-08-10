@@ -48,7 +48,7 @@ she, her
 #### Religious Belief/Deity
 Atheist
 #### Affiliated Organization(s)
-[[Organizations_Empire]]
+[[Empire|Organizations_Empire]]
 [[Imperial Army|Organizations_Imperial Army]]
 #### Conditions
 #### Current residence

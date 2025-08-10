@@ -48,7 +48,11 @@ she, her
 #### Religious Belief/Deity
 Atheist
 #### Affiliated Organization(s)
+<<<<<<< HEAD
 [[Empire|Organizations_Empire]]
+=======
+[[Organizations/Empire]]
+>>>>>>> origin/main
 [[Imperial Army|Organizations_Imperial Army]]
 #### Conditions
 #### Current residence
@@ -64,9 +68,7 @@ Atheist
 
 ## Naming
 #### Honorific / Title
-[[Ranks_Titles_General]]
-#### Given name
-Victoria
+[[General]]
 #### Middle name
 #### Family name
 Wendell
@@ -112,10 +114,8 @@ Aromantic/Asexual
 
 ## Social
 #### Titles
-[[Ranks_Titles_General]]
-#### Reign
-#### Wealth
-#### Contacts, Relations & Other Affiliations
+[[General]]
+#[[General]]## Contacts, Relations & Other Affiliations
 #### Family Ties
 #### Religious Views
 #### Social Aptitude

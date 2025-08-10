@@ -18,7 +18,11 @@ Eos and Astraeus
 #### Owning Rank
 [[Ranks_Titles_
 #### Owning Organization
+<<<<<<< HEAD
 [[repository/Organizations/Empire|Organizations_Empire]]
+=======
+[[Organizations/Empire|Organizations_Empire]]tions_Empire]]
+>>>>>>> origin/main
 #### Organizations Contesting Ownership of the Location
 [[Organizations_
 #### Alternative Name(s)

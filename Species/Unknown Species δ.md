@@ -1,34 +1,31 @@
 ---
 aliases:
-  - Species_Human
+  - Species_Unknown Species δ
 tags:
   - Species
 ---
-# Human
+# Unknown Species δ
 
 
 # Details
 ## Generic
 #### Scientific Classification
-Homo Sapiens
-Giant Ape
 #### Origin / Ancestry
-Developed on Earth
+Unknown
 #### Parent Species
 [[Species_
 #### Geographic Distribution
-[[Geographic_Locations_
-[[Settlements_
+[[Geographic_Locations_  
+[[Settlements_  
 [[Buildings_
 #### Related Ethnicities
-[[Imperial (Ethnicity)]]
+[[Ethnicities_
 #### Discovered By
 [[Charakters_
 #### Current Status
- - [ ] Extinct
+ - [x] Extinct
 #### Conservation Status
 #### Anatomy & Morphology
-Featherless Bipeds
 #### Perception & Sensory / Extrasensory Capabilities
 #### Genetics & Reproduction
 #### Growth Rate & Stages
@@ -43,11 +40,6 @@ Featherless Bipeds
 #### Average Weight
 #### Average Length
 #### Geographic Distribution
-<<<<<<< HEAD
-Only found in the [[repository/Organizations/Empire]].
-=======
-Only found in the [[Organizations/Empire]].
->>>>>>> origin/main
 #### Average Intelligence
 #### Average Physique
 #### Facial Characteristics and Features

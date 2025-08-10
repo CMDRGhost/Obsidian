@@ -16,7 +16,7 @@ Training Level Organization:
 Veterancy Organizations:
 ---
 # RAAC
-An artificial intelligence, that knowingly or unknowingly destroyed its creators and now has only the goal to expand its own Influence over everything it sees. It hasn't reached a level of expansion, knowledge or energy where it would be unstoppable, but it is dangerous non the less and currently the main threat the [[Empire]] faces.
+An artificial intelligence, that knowingly or unknowingly destroyed its creators and now has only the goal to expand its own Influence over everything it sees. It hasn't reached a level of expansion, knowledge or energy where it would be unstoppable, but it is dangerous non the less and currently the main threat the [[Organizations/Empire]] faces.
 
 
 
@@ -46,8 +46,7 @@ Unknown
 [[Settlements_
 [[Buildings_
 #### Related Species
-[[Species_Unknown Species δ]] 
-#### Related Ethnicities
+[[Unknown Species δ]]elated Ethnicities
 [[Ethnicities_
 #### Organization structure
 #### Culture
@@ -72,8 +71,7 @@ Unknown
 #### Power Structure System
 #### Economic System
 #### Neighboring Geopolitical Organizations
-[[Organizations_
-#### Recognised/Official Languages
+[[Organizations/Empire|Organizations_Empire]]Empire]]cognised/Official Languages
 [[Languages_
 #### Official State Religion
 #### Important Locations (Gazetteer)
